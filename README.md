@@ -16,11 +16,12 @@ Dotenv, Express, Express Handlebars & Express-Session Front-End: Materialize, Ha
 
 * [[Joshua's Github - HTML-CSS-Framework Specialist]](https://github.com/Jdogcrane)
 
+* [[Nathan's Github - HTML-CSS-Framework Specialist]](https://github.com/nzerr57)
+
 * [[Justin's Github - JavaScript Specialist]](https://github.com/huirayj)
 
 * [[Ryan's Github - JavaScript Specialist]](https://github.com/ryanpaynt)
 
-* [[Nathan's Github - HTML-CSS-Framework Specialist]](https://github.com/nzerr57)
 
 ## Installation
 This program can be run through a browser using the above link to the the deployed application. Alternatively, to run this application locally you will need to:
